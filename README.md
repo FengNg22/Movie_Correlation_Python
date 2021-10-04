@@ -1,2 +1,5 @@
 # Movie_Correlation_Python
-Using Python to do the data cleaning and look for the correlation of the Movie Data
+Using Python to do the data cleaning and look for the correlation of the Movie Data  
+#### The technique included
++ pd.read_csv
++ 
